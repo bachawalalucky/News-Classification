@@ -7,3 +7,6 @@ I have done some machine learning models using **NLP** techniques such as **coun
 
 In above models we have use algorithms such as **Logistic Regression, Multinomial Naïve Bayes, Random Forest Classifier, XGBoost Classifier**. Found that **Logistic Regression** gives best results among all others with **97.65% Accuracy** with deployment.
 
+here is the link for Heroku cloud deployment of News Classification https://news-classification-12.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/79050063/118360036-81635700-b5a3-11eb-8e30-6a92fce0450f.png)
