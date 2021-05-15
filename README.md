@@ -1,2 +1,9 @@
 # News-Classification
-Word2vec and glove 
+
+This Text Dataset are one of the richest sources of data for News classification. We’ll use a dataset which was provided by the **Board Infinity** comprised of 2225 articles, each labeled under one of 5 categories: business, entertainment, politics, sport or tech.
+The dataset is broken into 1700 records for training and 426 for testing. The goal will be to build a system that can accurately classify previously unseen news articles into the right category. The competition is evaluated using Accuracy as a metric.
+
+I have done some machine learning models using **NLP** techniques such as **countvectorizer, tfidfvectorizer, tfidfvectorizer pipline and Word Embedding Layers for Deep Learning** 
+
+In above models we have use algorithms such as **Logistic Regression, Multinomial Naïve Bayes, Random Forest Classifier, XGBoost Classifier**. Found that **Logistic Regression** gives best results among all others with **97.65% Accuracy** with deployment.
+
