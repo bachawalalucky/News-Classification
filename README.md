@@ -9,4 +9,6 @@ In above models we have use algorithms such as **Logistic Regression, Multinomia
 
 Here is the link for Heroku cloud deployment of News Classification https://news-classification-12.herokuapp.com/
 
+The deployment repository regarding the above news classification is here: https://github.com/bachawalalucky/news-classification-deployment
+
 ![image](https://user-images.githubusercontent.com/79050063/118360093-b8d20380-b5a3-11eb-8133-d417904eaef9.png)
